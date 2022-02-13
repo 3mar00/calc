@@ -9,8 +9,6 @@ document.onclick=function (a){
 
 
 va.style.cssText = "color:rgb(0,0,0)"
-
-va.focus(va)
  
     
 let ene = va.value.charAt(va.value.length -1); va.focus();
